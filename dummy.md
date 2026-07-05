@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Title
+title: "Title"
 ---
 (magic jekyll line)
 # this is a dummy file to see what Jekyll does with it
